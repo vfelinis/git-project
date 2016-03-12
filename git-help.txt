@@ -1,0 +1,4 @@
+git commit -a -m"init"
+git log --pretty=format:"%h - %an, %ar : %s"
+git log --since=2.weeks
+git log -p -штук
